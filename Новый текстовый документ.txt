@@ -1,0 +1,9 @@
+методы: 
+1) intiGame +
+2) createApple +
+3) loadImages + 
+
+4) move +
+5) checkApple ++
+6) checkCollisions  
+7) 
